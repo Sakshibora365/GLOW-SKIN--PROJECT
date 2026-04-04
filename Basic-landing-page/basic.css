@@ -1,0 +1,53 @@
+/*styling and effects for landing page*/
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.hero {
+  background: linear-gradient(135deg, #50505f, #16213e);
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+}
+
+
+.card {
+  transition: transform 0.3s ease;
+  border: none;
+  border-radius: 20px;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+}
+
+
+
+.navbar-brand {
+  font-size: 1.5rem;
+  letter-spacing: 2px;
+}
+
+
+.btn-dark {
+  border-radius: 25px;
+  padding: 10px 30px;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+footer a {
+  text-decoration: none;
+  transition: opacity 0.3s;
+}
+
+footer a:hover {
+  opacity: 0.7;}
