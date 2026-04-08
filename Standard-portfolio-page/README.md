@@ -7,9 +7,9 @@ netlify:https://lens-portfolio.netlify.app/#about
 ## Features
 - **Responsive Design**: The website is fully responsive and looks great on devices of all sizes.
 - **Image Gallery**: A dynamic gallery to display photographs categorized by genres.
-- **Contact Form**: A simple contact form for inquiries and collaborations.
+- **faq and newsletter**: frequently asked question and a newsletter.
 - **About Me Section**: A section to share the photographer's story and background.
-- **Blog**: A blog section for sharing news, tutorials, and photography tips.
+- **navbar**.
 
 ## Technologies Used
 - **HTML5**: For structure and content.
