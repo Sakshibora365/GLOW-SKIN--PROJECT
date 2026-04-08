@@ -32,11 +32,6 @@ netlify:https://lens-portfolio.netlify.app/#about
 - Upload your photographs to the designated folder.
 - Customize the content in the `about.html` and `contact.html` files to include your information.
 
-## Contribution
-Contributions are welcome! Please read the [CONTRIBUTING.md](path-to-contributing-guide) for guidelines.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 Sakshibora365
