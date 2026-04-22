@@ -164,5 +164,5 @@ h1, h2, h3 {
 /*contact*/
 #contact .form-control:focus {
   border-color: #4d8ef8;
-  box-shadow: 0 0 0 3px rgba(77,142,248,0.2);
+  box-shadow: 0 0 0 3px rgba(31, 40, 54, 0.2);
 }
